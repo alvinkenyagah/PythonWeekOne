@@ -1,4 +1,4 @@
-![ScreenShot]()
+![ScreenShot](https://geekflare.com/wp-content/uploads/2021/08/password-generator-python.jpg)
 # PYTHON PASSLOCKER
 #### Friday, April 22  2022
 #### By **Alvin Kenyagah**
