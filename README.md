@@ -6,8 +6,7 @@
  I will be creating Python application Passlocker where users can can create  a   password locker account  that  stores already existing account credentials in the application, create new account credentials in the application, view  various account credentials and their passwords and  delete a credentials account that are no longer needed in the application.
 ## Setup/Installation Requirements
 Launch your terminal and enter the following commands
-''' git clone https://github.com/alvinkenyagah/PythonWeekOne.git
-'''
+* git clone https://github.com/alvinkenyagah/PythonWeekOne.git
 * cd PythonWeekOne
 * python3 main.py
 ## Known Bugs
