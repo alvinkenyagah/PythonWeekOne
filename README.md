@@ -10,7 +10,7 @@ Launch your terminal and enter the following commands
 ```
 git clone https://github.com/alvinkenyagah/PythonWeekOne
 cd PythonWeekOne
-python3 main.py
+python3 run.py
 ```
 ## Known Bugs
 
